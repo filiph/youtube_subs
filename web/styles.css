@@ -1,0 +1,20 @@
+html, body {
+}
+
+#wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 5vw;
+}
+
+.row {
+    padding-top: 1em;
+}
+
+.row label {
+    display: block;
+}
+
+.row button {
+    display: block;
+}
